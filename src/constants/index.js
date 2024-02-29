@@ -350,7 +350,21 @@ export const propertyData10 = {
   about: "The 4bhk + study flat is located in PS Groups",
   number: "7362980601",
 };
-
+export const propertyData11= {
+  image: "/properties/p11.jpeg",
+  location: "Semi furnished 3bhk flat ",
+  owner: "AD Groups",
+  places: "8 places nearby",
+  price1: "₹10",
+  amt: "Thousand...",
+  price2: "₹23,908",
+  area1: "3rd floor with lift 1350",
+  area2: "155",
+  dimension1: "3",
+  dimension2: "4",
+  about: "The 4bhk + study flat is located in PS Groups",
+  number: "7001140228",
+};
 export const flatsData1 = {
   image: "/15.avif",
   location: "3-bedroom flat available for rent in Sector 121, Kolkata.",
