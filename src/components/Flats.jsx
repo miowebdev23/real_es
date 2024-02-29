@@ -10,6 +10,7 @@ import {
   propertyData8,
   propertyData9,
   propertyData10,
+  propertyData11,
 } from "../constants";
 import Call from "./Call";
 import Footer from "./Footer";
@@ -32,6 +33,7 @@ const Flats = () => {
     propertyData8,
     propertyData9,
     propertyData10,
+    propertyData11,
   ];
 
   const totalItems = allPropertyData.length;
