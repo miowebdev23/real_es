@@ -204,7 +204,7 @@ export const propertyData1 = {
   dimension2: "4",
   about:
     "Garia. Sector 1. Plot No - 2 New Garia Development Co-operative Housing Society LTD.",
-  number: "9339222467",
+  number: "7001140228",
 };
 
 export const propertyData2 = {
